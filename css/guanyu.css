@@ -1,0 +1,28 @@
+.gs{
+	text-align: center;
+	margin-top: 20px;
+	color: rgb(132, 57, 0);
+	font-size: 22px;
+}
+.wenan{
+	position: relative;
+	height: 500px;
+}
+.wenan>div{
+	width: 600px;
+	position: absolute;
+	right: 70px;
+	text-indent: 20px;
+	margin: 30px auto 0;
+	display: inline-block;
+}
+.wenan>div>p{
+	margin-top: 16px;
+	font-family: 微软雅黑;
+	font-size: 18px;
+}
+.wenan>img{
+	width: 380px;
+	display: inline-block;
+	margin-left: 200px;
+}

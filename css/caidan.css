@@ -1,0 +1,45 @@
+.cd{
+	text-align: center;
+	margin-top: 20px;
+	color: rgb(132, 57, 0);
+	font-size: 22px;
+}.fenglei{
+	width:1200px ;
+	margin: 0 auto;
+	text-align: center
+}
+.fenglei>div{
+	width: 200px;
+	height: 240px;
+	display: inline-block;
+	border: 1px solid  #470b0d;
+	vertical-align: top;
+	margin: 20px 12px 0 0;
+}
+.biaoqian{
+	background-color: #ffcc33;
+}
+.biaoqian>h2{
+	margin-top: 100px;
+	color: #470b0d;
+}
+.biaoqian>h3{
+	color: #470b0d;
+}
+.a{
+	margin-top: 10px;
+}
+.b{
+	color: red;
+	margin-top: 10px;
+}
+.biaoquan-2{
+	background-color: #64361e;
+}
+.biaoquan-2>h2{
+	margin-top: 100px;
+	color: #ffffff;
+}
+.biaoquan-2>h3{
+	color: #ffffff;
+}
